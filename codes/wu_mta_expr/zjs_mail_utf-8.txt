@@ -1,0 +1,30 @@
+老师：
+
+     bn层实验结果如下。数据及代码目录位于/jbod/zengjishen/bn_exp  在23服务器上。
+
+1)drn_1  20layers
+
+         12w iterations:
+
+         test accuracy: 0.9019
+
+         all cover accuracy: 0.5013
+
+2)drn_2  10layers
+
+         15w iterations
+
+         test accuracy: 0.8572
+
+         all cover accuracy: 0.5008
+
+3)drn_3   6layers
+
+          18w iterations
+
+          test accuracy: 0.7958
+
+          all cover accuracy: 0.4983
+
+      祝好！
+吉申
